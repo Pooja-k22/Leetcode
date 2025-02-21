@@ -4,13 +4,12 @@
  */
 var removeDuplicates = function(nums) {  // 1 1 2 2 3 3 
     let k=0
-    for(let i=0;i<nums.length-1;i++){
-        if(nums[i]!==nums[i+1] ){  //  1-2  2-3
-            nums[k]=nums[i]  // n[k]= [1,2,]
+    for(let i=1;i<nums.length;i++){
+        if(nums[k]!==nums[i] ){  //  1-2  2-3
+            nums[k+1]=nums[i]  // n[k]= [1,2,3]
             k++              //1 2
         }
     }
-    nums[k]=nums[nums.length-1]
-    k++
-    return k 
+    
+    return k+1 
 };
