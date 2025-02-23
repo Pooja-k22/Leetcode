@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pooja-k22/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pooja-k22/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pooja-k22/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pooja-k22/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pooja-k22/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/Pooja-k22/Leetcode/tree/master/0461-hamming-distance) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Pooja-k22/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
